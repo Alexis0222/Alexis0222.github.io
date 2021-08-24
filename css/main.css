@@ -3,4 +3,17 @@
 body {
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
+	
+
+	
+}
+#seccion-contacto ,footer{
+	background: #1b2a4e;
+	color: white;
+}
+#seccion-contacto{
+	min-height: 700px;
+}
+.bi{
+	color: aliceblue;
 }
