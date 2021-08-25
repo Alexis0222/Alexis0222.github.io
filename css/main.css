@@ -14,6 +14,30 @@ body {
 #seccion-contacto{
 	min-height: 700px;
 }
+#contenedor-formulario{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background: #fbfafa;
+	border-radius: 5px;
+}
+#titulo-formulario{
+	color: #3f3f3f;
+	
+}
 .bi{
 	color: aliceblue;
+	font-size: 26px;
+	padding: 0 8px;
+}
+@media (max-width:1200px){
+	
+}
+@media (max-width:768px){
+	
+}
+
+@media (max-width:576px){
+	
 }
